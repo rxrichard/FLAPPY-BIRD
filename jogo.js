@@ -266,6 +266,7 @@ function criaCanos() {
                 if (peDoFlappy >= par.canoChao.y) {
                     return true;
                 }
+                som_PONTO.play();
             }
 
             return false;
@@ -276,7 +277,7 @@ function criaCanos() {
             const passou100Frames = frames % 100 === 0;
             if (passou100Frames) {
                 console.log('Passou 100 frames');
-                som_PONTO.play();
+
                 canos.pares.push({
                     x: canvas.width,
 
