@@ -17,7 +17,7 @@ Este projeto foi feito com auxilio de [Soutinho](https://github.com/omariosouto)
 
 ## 🌐 Para acessar: 
 
-[Flappy Bird -  by Richard Bastos](rxrichard.github.io/flappy-bird)
+[Flappy Bird -  by Richard Bastos](https://rxrichard.github.io/flappy-bird/)
 
 
 ## ⚙️ Ferramentas Utilizadas
